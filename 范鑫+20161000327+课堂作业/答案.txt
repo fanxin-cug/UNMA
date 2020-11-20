@@ -1,0 +1,9 @@
+球队：A B C D E F
+已赛：A-B A-C B-D B-F
+
+赛程安排如下：
+week1:A-D B-C E-F
+week2:A-E C-D
+week3:A-F B-E
+week4:C-E D-F
+week5:C-F D-E
